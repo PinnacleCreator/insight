@@ -1,0 +1,15 @@
+*.jar
+*.zip
+*.xml
+*.class
+FitNesseRoot/RecentChanges/
+FitNesseRoot/ErrorLogs/
+FitNesseRoot/FrontPage/
+FitNesseRoot/PageFooter/
+FitNesseRoot/PageHeader/
+FitNesseRoot/RecentChanges/
+FitNesseRoot/FitNesse/
+.git/
+.idea/
+out/
+project/

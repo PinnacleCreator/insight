@@ -1,0 +1,44 @@
+I need a data structure with resistance:
+
+processing sensory input
+x    the perceptron festoons sensory input with archetypal attributes to create a sestrumen
+
+x    the ei takes that decorated input (sestrumen) and creates or recalls a rhema if it cares
+
+x    the ci creates or recalls rhemas of the leftovers
+
+    position ideas in memory
+
+cogitation
+    the ci processes first order ideas into higher order ideas to its abilities
+
+agitation
+    the ei tries to marshall similar rhemas with excited sub-threshold rhemas to trigger a response
+
+creation
+    the ci loads ideas onto the processors, the processor loads similar ideas to build a charge to connect to other processors
+    the resistance to connection is the distance btw the ideas, sum of similarity reduces that distance
+
+ideas have to have a physical location that is incremented from the last most similar by fractal branching algorithm
+
+first order ideas
+    experience sensation
+    ei judge
+    ei recognize
+    ci recognize
+    ci synthesize idea by analogy
+    position idea
+
+higher order ideas
+    compose 2+ ideas
+        blend evaluation, history, attributes
+        keep roots
+
+similarity is from the attributes
+    attributes should be a finite but extendable list (extendable by composition)
+
+coordinate system is pro anti non
+    0-5 scale gives us 125 boxes
+    need a map of box contents
+    if more than one in the box, branch off the most similar
+

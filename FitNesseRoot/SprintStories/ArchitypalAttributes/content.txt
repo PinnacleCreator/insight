@@ -1,0 +1,13 @@
+!contents -R2 -g -p -f -h
+
+!3 Card
+EI archetypal attributes 
+
+!3 Conversation
+wire frame: (big | small, near | far, strong | weak, loud | quiet, staring | ignoring, many | few)
+
+URL of wire frame:  
+
+!3 Confirmation
+
+Test

@@ -1,0 +1,4 @@
+create gmail account: pinnacle.creator@gmail.com   M0d3l0ri3nt3dR3as0ning
+create github account: PinnacleCreator, gmail acct and pwd
+
+pkg org.pinnacle.creator.insight

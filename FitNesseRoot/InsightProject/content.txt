@@ -1,0 +1,32 @@
+!2 SprintStories
+!2 SprintTests
+!2 RegressionTests
+!contents -R2 -g -p -f -h
+
+!1 Story Cards
+  *perceptron processes input 
+
+
+!1 Exploratory Testing
+
+!1 Feature Requests
+
+ *Processing sensory input       1 0 1
+  *perceptron festoons sensory input with archetypal attributes to create a sestrumen
+
+ *EI input processing
+  *define evaluation levels 0-5
+  *define rhema
+  *create a rhema from a sestrumen
+  *define similarity based on eval, attributes
+  *recall a rhema given a sestrumen
+
+ *CI input processing
+  *recognize rhema
+  *completes unfinished rhemas
+  *fractal branching based on eval
+  *position based on attribute similarity
+  *position based on 
+
+
+TemplateLibrary

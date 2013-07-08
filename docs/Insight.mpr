@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ectoset version="2.2" project_name="Insight" author="mlauer">
+  <uml_objects>
+    <uml_object ItemID="2E1A3381ECDB43E88F404A4FA2409806" ot="500">
+      <pty Name="tlbl" type="sv">Logical View</pty>
+    </uml_object>
+    <uml_object ItemID="9608AD0FB7004E7B81A7F397A0C838BD" ot="500">
+      <pty Name="tlbl" type="sv">Use Case View</pty>
+    </uml_object>
+    <uml_object ItemID="C543ED5A68524D89BBA9E5C2B06F9EF1" ot="500">
+      <pty Name="tlbl" type="sv">Component View</pty>
+    </uml_object>
+    <uml_object ItemID="F9DAEB9D8DBC4DA2BFF5041E533739A4" ot="500">
+      <pty Name="tlbl" type="sv">Deployment View</pty>
+    </uml_object>
+  </uml_objects>
+  <diagrams>
+    <node ItemID="3DBE084A0F4D4B80A4219B9D11BE11CA" ot="1000" Layout="0" PagesAcross="1" PagesDown="1"></node>
+    <node ItemID="D1735383E7364928A63E129CA1DA3BCA" ot="1001" Layout="0" PagesAcross="1" PagesDown="1"></node>
+    <node ItemID="FB5E31D8D1DF43DCAE45086BBB3AC2BE" ot="1002" Layout="0" PagesAcross="1" PagesDown="1"></node>
+    <node ItemID="22BC5C82EDB0460380AE23C3BB03C881" ot="1003" Layout="0" PagesAcross="1" PagesDown="1"></node>
+  </diagrams>
+  <project_tree>
+    <Package name="Use Case View" ItemID="9608AD0FB7004E7B81A7F397A0C838BD" ot="500" tvii="0">
+      <node ItemID="3DBE084A0F4D4B80A4219B9D11BE11CA" ot="1000" Layout="0" PagesAcross="1" PagesDown="1" tvii="2">Default Diagram</node>
+    </Package>
+    <Package name="Logical View" ItemID="2E1A3381ECDB43E88F404A4FA2409806" ot="500" tvii="0">
+      <node ItemID="D1735383E7364928A63E129CA1DA3BCA" ot="1001" Layout="0" PagesAcross="1" PagesDown="1" tvii="3">Default Diagram</node>
+    </Package>
+    <Package name="Component View" ItemID="C543ED5A68524D89BBA9E5C2B06F9EF1" ot="500" tvii="0">
+      <node ItemID="FB5E31D8D1DF43DCAE45086BBB3AC2BE" ot="1002" Layout="0" PagesAcross="1" PagesDown="1" tvii="4">Default Diagram</node>
+    </Package>
+    <Package name="Deployment View" ItemID="F9DAEB9D8DBC4DA2BFF5041E533739A4" ot="500" tvii="0">
+      <node ItemID="22BC5C82EDB0460380AE23C3BB03C881" ot="1003" Layout="0" PagesAcross="1" PagesDown="1" tvii="1">Default Diagram</node>
+    </Package>
+  </project_tree>
+</ectoset>
